@@ -2,15 +2,6 @@
 
 SSAFY 4기 자율 1반 3팀 <span style="color: green; font-size: 25px">더치페이</span>입니다.
 
-<p align="center">
-![__2_-removebg-preview](/uploads/834f423c23139e6ccc50b9a66c5dd10a/__2_-removebg-preview.png)
-
-<p style="padding: 15px">
-<img src="https://img.shields.io/static/v1?label=SSAFY&message=4%EA%B8%B0&color=0ABAB5">
-<img src="https://img.shields.io/static/v1?label=서울&message=1반&color=00a3d2">
-<img src="https://img.shields.io/static/v1?label=Domain&message=자율프로젝트&color=ABF200">
-</p>
-
 - 리퍼브 상품에 하향식 경매를 이용해 판매하는 쇼핑몰 프로젝트입니다.
 - 저희가 취급하는 리퍼브 상품이란 소비자 기준에 미치지 못하는 상품들로 <br />
   못난이 농산품, 포장 불량 이나 상품 흠집들이 존재하는 공산품, 유통기한 임박상품이 있습니다.
